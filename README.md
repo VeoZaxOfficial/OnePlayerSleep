@@ -17,7 +17,7 @@ A lightweight PocketMine-MP plugin that lets a **single player** skip the night 
 
 ## Installation
 
-1. Download the plugin from here [OnePlayerSleep](link)
+1. Download the plugin from here [OnePlayerSleep](https://www.mediafire.com/file/emncer0il8j2har/OnePlayerSleep.phar/file)
 2. Drop the `OnePlayerSleep` folder into your server's `plugins/` directory.
 3. Restart or reload your server.
 
