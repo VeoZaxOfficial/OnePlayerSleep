@@ -1,0 +1,7 @@
+name: OnePlayerSleep
+api: ["VeoZaxAPI"]
+version: 0.14.x_0.15.10
+main: OnePlayerSleep\Main
+author: VeoZax
+description: A single player Sleep Logic works Even if there so many players awake
+website: https://github.com/VeoZaxOfficial
